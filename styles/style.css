@@ -20,11 +20,11 @@
   text-underline-position: from-font;
 }
 
-.header__links-list-item .no-bullit {
+.header__links-list-item_no-bullit {
   list-style-type: none;
 }
 
-.header__link .active {
+.header__link-active {
   text-decoration: none;
 }
 
@@ -302,7 +302,7 @@
   text-underline-position: from-font;
 }
 
-.footer__menu-link .active {
+.footer__menu-link_active {
   text-decoration: none;
 }
 
